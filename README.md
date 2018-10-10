@@ -1,8 +1,9 @@
 <p align="center">
 <img src="Resources/sugar_lump_logo.png"/>
 </p>
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Machipla/SugarLump)
-[![Swift](https://img.shields.io/badge/swift-4.0-blue.svg?style=flat-square)](https://github.com/Machipla/SugarLump)
+
+[![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Machipla/SugarLump)
+[![](https://img.shields.io/badge/swift-4.0-blue.svg?style=flat-square)](https://github.com/Machipla/SugarLump)
 
 This pods tries to simplify some repetitive tasks across the Apps for saving your time!
 
